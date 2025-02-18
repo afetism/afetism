@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Afet </h1>
-<h3 align="center">.NET Developer | Backend Engineer | Open-Source Contributor</h3>
+<h3 align="center">.NET Developer | Backend Engineer </h3>
 
 
 
 ---
 
 ### 🚀 **About Me**
-- 🏆 Passionate about **.NET development, software architecture, and clean code**.
+- 🏆 Passionate about **.NET development and clean code**.
 - 🔥 Experienced in **C#, ASP.NET Core, Entity Framework, and WPF**.
 - 🎯 Currently exploring **microservices architecture**.
 
