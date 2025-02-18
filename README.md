@@ -1,20 +1,15 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Afet </h1>
 <h3 align="center">.NET Developer | Backend Engineer | Open-Source Contributor</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+
 
 ---
 
 ### 🚀 **About Me**
 - 🏆 Passionate about **.NET development, software architecture, and clean code**.
-- 🔥 Experienced in **C#, ASP.NET Core, Entity Framework, Blazor, and WPF**.
-- 🎯 Currently exploring **microservices architecture & cloud computing**.
-- 💡 Love contributing to **open-source projects** and mentoring developers.
+- 🔥 Experienced in **C#, ASP.NET Core, Entity Framework, and WPF**.
+- 🎯 Currently exploring **microservices architecture**.
+
 
 ---
 
@@ -26,15 +21,21 @@
 
 #### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/MsSql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🌐 Frontend
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+ ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🌐 Desktop
 ![WPF](https://img.shields.io/badge/WPF-%23007ACC.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 #### 🛠 Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -43,20 +44,12 @@
 
 ---
 
-### 📌 **Featured Projects**
-#### 🔹 [Project Name](https://github.com/yourusername/projectname)
-> A short description of your project. Built with **.NET Core, Blazor, and Entity Framework**.
-
-#### 🔹 [Project Name](https://github.com/yourusername/projectname)
-> A short description of your project. Uses **Microservices, DDD, and CQRS**.
-
----
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=afetism&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afetism&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afetism&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
