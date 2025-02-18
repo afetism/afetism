@@ -2,7 +2,7 @@
 <h3 align="center">.Net developer</h3>
 
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
