@@ -20,8 +20,7 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23007ACC.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
 #### 🌐 Frontend
